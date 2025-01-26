@@ -1,0 +1,8 @@
+## so here we will consider the all eta deta information about the project as well :
+## so as here automatically it will update the version by itself : 
+## so here how the setup.py will know that how much packages are there in the folder : 
+
+pandas 
+numpy 
+seaborn 
+-e .
